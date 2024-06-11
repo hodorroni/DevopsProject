@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Another Page</h1>
-    <h3>This is another page.</h3>
+    <h4>This is another page.</h4>
     <br />
     <a href="index.jsp">Back to Home</a>
   </body>
