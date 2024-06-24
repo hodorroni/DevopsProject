@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Another Page</title>
+    <title>Another Page!</title>
   </head>
   <body>
     <h1>Another Page</h1>
